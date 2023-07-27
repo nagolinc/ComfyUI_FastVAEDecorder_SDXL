@@ -1,5 +1,7 @@
 # ComfyUI_FastVAEDecorder_SDXL
 
+Based off of: https://github.com/Birch-san/diffusers-play/tree/main/approx_vae
+
 This ComfyUI node allows you to quickly preview SDXL 1.0 latents.
 
 
