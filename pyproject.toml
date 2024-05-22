@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_fastvaedecorder_sdxl"
+description = "Based off of: [a/Birch-san/diffusers-play/approx_vae](https://github.com/Birch-san/diffusers-play/tree/main/approx_vae). This ComfyUI node allows you to quickly preview SDXL 1.0 latents."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/nagolinc/ComfyUI_FastVAEDecorder_SDXL"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_FastVAEDecorder_SDXL"
+Icon = ""
